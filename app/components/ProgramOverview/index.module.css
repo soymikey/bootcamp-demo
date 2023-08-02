@@ -1,0 +1,22 @@
+.cardWrapper {
+  margin-top: 10px;
+}
+
+.overviewTitle {
+  color: grey;
+  font-size: 12px;
+}
+
+.programOverview {
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.overviewDetails {
+  font-weight: bold;
+  font-size: 12px;
+  width: 100%;
+  word-wrap: break-word;
+}
